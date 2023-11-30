@@ -1,0 +1,31 @@
+Programación orientada a objetos
+Clases, atributos y métodos
+Se crean objetos con ciertas características (variables o atributos) como el color, tamaño, forma...
+Cuando esos objetos tienen las mismas funciones y las mismas características se crea una CLASE.
+Las clases se abren y cierran con llaves {}, y las variables se cierran con punto y coma ;
+Los métodos (acciones dentro de las clases) también se abren con llaves {}
+Cuando pone main quiere decir que lo que pongamos se va a hacer cuando se inicie la aplicación.
+Tipos de variables (public)
+  -int: números enteros
+  -float: número decimal
+  -boolean: verdadero falso
+  -string: texto
+
+Ejemplo:
+
+CLASE {
+  
+     VARIABLE;
+     VARIABLE;
+     VARIABLE;
+   MAIN {
+
+
+    }
+
+  MULTIPLICA {
+     
+
+
+    }
+}
